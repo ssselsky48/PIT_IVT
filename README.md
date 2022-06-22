@@ -2,6 +2,7 @@
 
 ### [Получение сертификата Let's encrypt для Nginx (без Docker)](https://drive.google.com/file/d/1rZpl57rUfxHl7mzhDDoykLJGmnggLiiS/view)
 ### [Скринкаст-отчет об установке докера и запуске статичного сайта или Node-приложения](https://drive.google.com/file/d/12QY6JL8pXsCvuos5Km4usvWsRCfaz-jL/view?usp=sharing)
+### [Docker BPR (Build & Push & Run)](https://hub.docker.com/repository/docker/ssselsky/myfirstapp)
 ### [Скринкаст Docker-Compose First Look](https://drive.google.com/file/d/1gSP8b8RRaHB6QPd9y_rGAOOOzndO8ZrR/view?usp=sharing)
 ### Список провайдеров oAuth
 | № |    Название    |     Ссылка   на документацию                                                                                             |     Ссылки на модули                                                                                                             |
