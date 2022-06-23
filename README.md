@@ -13,3 +13,5 @@
 | 4 |     GitHub     |     https://docs.github.com/en/developers/apps/building-oauth-apps/creating-an-oauth-app                                 |     https://docs.github.com/en/developers/apps/building-oauth-apps/authorizing-oauth-apps                                        |
 | 5 |     Mail.ru    |     https://help.mail.ru/developers/oauth                                                                                |     https://help.mail.ru/developers/oauth/button     https://python-social-auth.readthedocs.io/en/latest/backends/mailru.html    |
 | 6 |     Twitter    |     https://developer.twitter.com/en/docs/authentication/oauth-2-0                                                       |     https://developer.twitter.com/en/docs/twitter-api/tools-and-libraries/v2                                                     |
+
+### [Реализация дополнительной стратегии oAuth 2.0](https://github.com/ssselsky48/PIT_IVT/tree/main/nodejs-oauth-app-master)
