@@ -4,7 +4,7 @@
 ### [Скринкаст-отчет об установке докера и запуске статичного сайта или Node-приложения](https://drive.google.com/file/d/12QY6JL8pXsCvuos5Km4usvWsRCfaz-jL/view?usp=sharing)
 ### [Docker BPR (Build & Push & Run)](https://hub.docker.com/repository/docker/ssselsky/myfirstapp)
 ### [Скринкаст Docker-Compose First Look](https://drive.google.com/file/d/1gSP8b8RRaHB6QPd9y_rGAOOOzndO8ZrR/view?usp=sharing)
-
+### [LetsEncrypt & Nginx ProxyЗадание](https://github.com/ssselsky48/PIT_IVT/tree/main/LetsEncrypt%20%26%20Nginx%20Proxy)
 ### Настройка подключения к виртуальной частной сети
 #### 1. VPS
  ![image](https://user-images.githubusercontent.com/60671160/175340993-c8535ccc-3e16-4858-a979-5a8b76a59d5c.png)
